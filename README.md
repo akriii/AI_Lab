@@ -30,5 +30,6 @@ To run the code in this repository locally:
 
 ## 🤝 Contributor
 
-*   **Muhammad Akmal Fikri** - *2nd Year 1st Semester*
-*   Course: Artificial Intelligence
+*   **Muhammad Akmal Fikri Bin Asma Zaki** - *2nd Year 1st Semester (26005849)*
+*   Course: Artificial Intelligence (TEB2023)
+*   Lab Group: Group 3 (Friday 10.00 am - 12.00 pm) 
